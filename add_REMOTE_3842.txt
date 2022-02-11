@@ -4,4 +4,3 @@ update add
 changed by local
 remote 
 local changed 2
-updated by remote

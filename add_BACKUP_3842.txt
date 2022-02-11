@@ -3,5 +3,8 @@ edited in local
 update add
 changed by local
 remote 
-local changed 2
+<<<<<<< HEAD
 updated by remote
+=======
+local changed 2
+>>>>>>> 6016c5f (local change 2)
